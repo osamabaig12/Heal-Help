@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "806725277763",
+    "firebase_url": "https://flutterhealhelplogin.firebaseio.com",
+    "project_id": "flutterhealhelplogin",
+    "storage_bucket": "flutterhealhelplogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806725277763:android:b7dd99147fa92639c7dcf6",
+        "android_client_info": {
+          "package_name": "com.flutter_heal_help.flutterapphealhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcYBNIyPg92aQS78qH7PvrkL88ayfK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806725277763:android:42ca51f67a8eff21c7dcf6",
+        "android_client_info": {
+          "package_name": "com.login_healhelp.flutterapphealhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcYBNIyPg92aQS78qH7PvrkL88ayfK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806725277763:android:8ee227a2e37117cec7dcf6",
+        "android_client_info": {
+          "package_name": "com.loginhealhelp.flutterapphealhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcYBNIyPg92aQS78qH7PvrkL88ayfK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806725277763-q4r58afiegtcs9i9kf4ia1m3f9jtssam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
